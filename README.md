@@ -1,6 +1,4 @@
-# test_site_jekyll_theme
-
-# this is the headling
+# this is the heading
 
 #### we have acheived something here (I think)
 
