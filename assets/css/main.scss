@@ -4,6 +4,6 @@
 @import "{{ site.theme }}";
 
 /* Background Image */
-.page-header {
+#main-content.section-background {
   background-image: url('{{ "/assets/images/shera.jpg" | relative_url }}');
 }
