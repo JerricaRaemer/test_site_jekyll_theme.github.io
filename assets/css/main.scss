@@ -4,6 +4,8 @@
 @import "{{ site.theme }}";
 
 /* Background Image */
-#main-content.section-background {
-  background-image: url('{{ "/assets/images/shera.jpg" | relative_url }}');
+body {
+  background: url('{{ "/assets/images/background.jpg" | relative_url }}')
+              no-repeat center center fixed;
+  background-size: cover;
 }
